@@ -37,7 +37,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: `alexander.kuznecov11@gmail.com`
-- 💼 LinkedIn: [YourLinkedIn](https://www.linkedin.com/)
+- 💼 LinkedIn: [Alexandar Kuznecov](https://www.linkedin.com/in/alexandar-kuznecov/)
 
 ---
 
