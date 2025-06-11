@@ -21,8 +21,10 @@
 ## 📁 Featured Projects
 
 - 🎮 [ArenaGame](https://github.com/AlexanderKuznecov/ArenaGame-2301321059) – Simple console and GUI fighting game in C#
-- 🎬 `MovieRental` – Java desktop app for managing movies, customers, and rentals using H2 database  
-*(repo coming soon)*
+- 🎬 [MovieRental](https://github.com/AlexanderKuznecov/movieRental) – Java desktop app for managing movies, customers, and rentals using H2 database  
+- 💰 [BudgetBuddy](https://github.com/AlexanderKuznecov/distributed-applications-se) - API application with MVC gui for managing money
+- 📖 [LibraryApp](https://github.com/P-Petrov04/Library-MVC-Project) - Group MVC application for Library
+- 🖌️ [Draw](https://github.com/AlexanderKuznecov/Draw) - Windows form 2D vector drawing and editing app
 
 ---
 
