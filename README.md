@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Alexander Kuznecov!
+## 👋 Hi there, I'm Alexandar Kuznecov!
 
 🎓 Software Engineering student  
 💡 Passionate about building clean and useful applications  
