@@ -25,6 +25,7 @@
 - 💰 [BudgetBuddy](https://github.com/AlexanderKuznecov/distributed-applications-se) - API application with MVC gui for managing money
 - 📖 [LibraryApp](https://github.com/P-Petrov04/Library-MVC-Project) - Group MVC application for Library
 - 🖌️ [Draw](https://github.com/AlexanderKuznecov/Draw) - Windows form 2D vector drawing and editing app
+- 🤖 [AI-chat](https://github.com/AlexanderKuznecov/ai-chat-assistant) - AI-powered chat application
 
 ---
 
