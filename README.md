@@ -15,6 +15,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -26,12 +27,6 @@
 - 📖 [LibraryApp](https://github.com/P-Petrov04/Library-MVC-Project) - Group MVC application for Library
 - 🖌️ [Draw](https://github.com/AlexanderKuznecov/Draw) - Windows form 2D vector drawing and editing app
 - 🤖 [AI-chat](https://github.com/AlexanderKuznecov/ai-chat-assistant) - AI-powered chat application
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderKuznecov&show_icons=true&theme=radical)
 
 ---
 
