@@ -27,6 +27,7 @@
 - 📖 [LibraryApp](https://github.com/P-Petrov04/Library-MVC-Project) - Group MVC application for Library
 - 🖌️ [Draw](https://github.com/AlexanderKuznecov/Draw) - Windows form 2D vector drawing and editing app
 - 🤖 [AI-chat](https://github.com/AlexanderKuznecov/ai-chat-assistant) - AI-powered chat application
+- 🚗 [Pitlane Diecast](https://github.com/AlexanderKuznecov/pitlane-diecast-analytics) - Analysis of an online store for Hot Wheels and F1 models
 
 ---
 
